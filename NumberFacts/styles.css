@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f3f4f6;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+#facts-container {
+  margin-top: 20px;
+  background-color: #ecf0f1;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#facts-container p {
+  font-size: 1.2em;
+  color: #34495e;
+}
